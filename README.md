@@ -11,6 +11,12 @@ I specialize in **React Native, React, Angular, Node.js**, and cloud-native arch
 
 I’ve worked on production systems used by **150K+ users**, focusing on performance, security, and clean, maintainable code.
 
+- Built cross-platform mobile apps that increased engagement and retention.
+- Developed scalable server-side apps and optimized RESTful APIs for performance.
+- Implemented serverless AWS architectures and automated CI/CD deployments.
+- Integrated push notifications, in-app messaging, and third-party services.
+- Delivered pixel-perfect UI/UX while collaborating with cross-functional teams.
+
 ---
 
 ## 🛠 Tech Stack
@@ -29,40 +35,6 @@ MySQL, MongoDB, Firestore
 
 **Security**  
 OWASP Top 10, API Hardening, Encryption, Rate Limiting  
-
----
-
-## 🚀 Featured Projects
-
-### URFitAP – Fitness Membership App  
-**Tech:** React Native, Node.js, AWS, MySQL  
-Built Apple & Google Wallet-based membership access and scalable onboarding workflows for **150K+ users**.
-
-### OnCare360 – Remote Patient Monitoring  
-**Tech:** React Native, BLE, Angular, Auth0, AWS  
-Integrated BLE medical devices for real-time health monitoring and secure patient–provider communication.
-
-### Security Vulnerability Audit  
-**Tech:** OWASP, Burp Suite, Wireshark  
-Performed penetration testing to identify XSS, CSRF, and SQL injection vulnerabilities with remediation plans.
-
----
-
-## 💼 Experience
-
-**Software Developer – Power Wellness (2024–Present)**  
-Optimized a 150K+ user React Native app, improved backend performance by 25%, implemented Apple & Google Wallet, and built AWS serverless workflows.
-
-**Mobile & Web Developer – DSmart Systems (2021–2024)**  
-Built healthcare apps with React Native, improved BLE connectivity by 40%, automated releases with Fastlane, and integrated Zoom SDK.
-
----
-
-## 📊 GitHub Stats
-
-![Goutham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chgouthamraj&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chgouthamraj&layout=compact&theme=dark)
 
 ---
 
