@@ -1,4 +1,4 @@
-# Hi, I'm Goutham Raj 👋  
+mi# Hi, I'm Goutham Raj 👋  
 Full Stack & Mobile Engineer | React Native | React | Node.js | AWS  
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -39,8 +39,7 @@ OWASP Top 10, API Hardening, Encryption, Rate Limiting
 ---
 
 ## 🌐 Links
-
-🔗 Portfolio: https://chgouthamraj.github.io  
+  
 🔗 LinkedIn: https://www.linkedin.com/in/chgouthamraj/  
 🐙 GitHub: https://github.com/chgouthamraj  
 
