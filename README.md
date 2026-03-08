@@ -1,4 +1,4 @@
-mi# Hi, I'm Goutham Raj 👋  
+ Hi, I'm Goutham Raj 👋  
 Full Stack & Mobile Engineer | React Native | React | Node.js | AWS  
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
